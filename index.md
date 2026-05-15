@@ -4,7 +4,7 @@
 Windows/macOS | Microsoft Intune | Jamf Pro | Apple Business Manager | Endpoint Operations | Technical Documentation
 
 Phoenix, AZ  
-[LinkedIn](#) | [Resume](#) | [GitHub](https://github.com/ken-arend)
+[LinkedIn](https://www.linkedin.com/in/kenneth-arend/) | [Resume](#) | [GitHub](https://github.com/ken-arend)
 
 ## About
 
