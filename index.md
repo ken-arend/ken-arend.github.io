@@ -23,7 +23,7 @@ I’m an endpoint support and IT operations professional with experience support
 
 Coming soon:
 
-- Intune DNS Remediation Deployment
+- Intune DNS Remediation Deployment(case-studies/intune-dns-remediation.md)
 - macOS Jamf-to-Intune Migration Support
 - Adobe Creative Cloud Self-Service Modernization
 - MSP macOS Endpoint Ownership
